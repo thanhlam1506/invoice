@@ -1,0 +1,12 @@
+.user-login {
+  display: flex;
+  flex-direction: column;
+  .formik-input {
+    margin-bottom: 10px;
+    .formik-label {
+      margin-bottom: 10px;
+      min-width: 50px;
+      font-weight: bold;
+    }
+  }
+}
